@@ -1,10 +1,15 @@
 import { Injectable } from '@angular/core';
 
+/**
+ * Servico responsavel para executar as operações da calculadora
+ */
+
 @Injectable({
   providedIn: 'root'
 })
 export class CalculadoraService {
 
+  /* Define as constantes utilizadas para identificar as operações de calculo */
   static readonly SOMA: string = '+';
   static readonly SUBTRACAO: string = '-';
   static readonly DIVISAO: string = '/';
@@ -13,7 +18,7 @@ export class CalculadoraService {
   constructor() { }
 
   calcular(num1: number, num2: number, operacao: string): number {
-    let resultado: number;
+    let resultado: number; // armazena o resultado da operacao
 
     switch(operacao) {
       case CalculadoraService.SOMA:
