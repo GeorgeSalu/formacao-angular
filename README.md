@@ -2,7 +2,7 @@
 
 1- projeto ola-mundo
 2- projeto calculadora
-1- projeto gerenciador de tarefas
-1- projeto jogo da velha
-1- projeto conversor de moedas
-1- projeto dashboard
+3- projeto gerenciador de tarefas
+4- projeto jogo da velha
+5- projeto conversor de moedas
+6- projeto dashboard
