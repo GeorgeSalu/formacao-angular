@@ -1,7 +1,7 @@
 import { Injectable } from '@angular/core';
 
 /**
- * Servico responsavel para executar as operações da calculadora
+ * Serviço responsável para executar as operações da calculadora
  */
 
 @Injectable({
@@ -18,7 +18,7 @@ export class CalculadoraService {
   constructor() { }
 
   calcular(num1: number, num2: number, operacao: string): number {
-    let resultado: number; // armazena o resultado da operacao
+    let resultado: number; // armazena o resultado da operação
 
     switch(operacao) {
       case CalculadoraService.SOMA:
