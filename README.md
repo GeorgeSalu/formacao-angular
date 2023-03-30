@@ -1,7 +1,7 @@
 ### formação angular
 
 Este repositorio foi dividido em 7 projetos, com o objetivo de tornar o aprendizado otimizado, divertido, e prático, portanto ele não possui lições teóricas e cansativas.
-Maioria dos projetos usa a versao 13 do angular.
+Maioria dos projetos usa a versão 13 do angular.
 
     1- projeto ola-mundo.
     2- projeto calculadora.
