@@ -1,5 +1,5 @@
 ### formação angular
-Este repositorio foi dividido em 7 projetos, com o objetivo de tornar o aprendizado otimizado, divertido, e prático, portanto ele não possui lições teóricas e cansativas.
+Este repositorio foi dividido em 6 projetos, com o objetivo de tornar o aprendizado otimizado, divertido, e prático, portanto ele não possui lições teóricas e cansativas.
 
     1- projeto ola-mundo.
     2- projeto calculadora.
