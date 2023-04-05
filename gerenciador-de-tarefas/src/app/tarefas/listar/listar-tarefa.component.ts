@@ -22,7 +22,7 @@ export class ListarTarefaComponent implements OnInit {
 
   remover($event: any, tarefa: Tarefa): void {
     $event.preventDefault();
-    if(confirm('deseja remoer a tarefa "'+tarefa.nome+'"?')) {
+    if(confirm('deseja remover a tarefa "'+tarefa.nome+'"?')) {
       this.tarefasService.remover(tarefa.id);
       this.tarefas = this.tarefasService.listarTodos();
     }
