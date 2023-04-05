@@ -10,7 +10,7 @@ import { Router } from '@angular/router';
 })
 export class CadastrarTarefaComponent implements OnInit {
 
-  @ViewChild('formTarefa') formTarefa: NgForm
+  @ViewChild('formTarefa', { static: true }) formTarefa: NgForm
   tarefa: Tarefa;
 
   constructor(private tarefaService: TarefaService,
