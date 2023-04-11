@@ -4,8 +4,8 @@ import { ConversorComponent } from './components';
 import { ConversorService, MoedaService } from './services';
 import { HttpClientModule } from '@angular/common/http';
 import { FormsModule } from '@angular/forms';
-import { NumeroDirective } from './directives/numero.directive';
-import { ModalCotacaoComponent } from './utils/modal-cotacao.component';
+import { NumeroDirective } from './directives';
+import { ModalCotacaoComponent } from './utils';
 
 @NgModule({
   declarations: [
