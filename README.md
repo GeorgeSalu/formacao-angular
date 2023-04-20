@@ -2,10 +2,10 @@
 
 Este repositorio é dividido em 7 projetos, com o objetivo de tornar o aprendizado otimizado, divertido, e prático, portanto ele não possui lições teóricas e cansativas a maioria dos projetos usa a versão 13 do angular.
 
-    1- projeto ola mundo.
-    2- projeto calculadora.
-    3- projeto gerenciador de tarefas.
-    4- projeto jogo da velha.
-    5- projeto conversor de moedas.
-    6- projeto dashboard.
-    7- projeto agregador dos 6 projetos anterioes.
+    1- Projeto ola mundo.
+    2- Projeto calculadora.
+    3- Projeto gerenciador de tarefas.
+    4- Projeto jogo da velha.
+    5- Projeto conversor de moedas.
+    6- Projeto dashboard.
+    7- Projeto agregador dos 6 projetos anterioes.
