@@ -1,8 +1,11 @@
 ### formação angular
 
 Esse curso tem como objetivo principal ensinar a criação de aplicações web com o poderoso framework Angular 13.
+
 Para tornar o aprendizado prático e divertido, você criará 7 projetos ao longo do curso, onde serão ensinados passo a passo na prática, os recursos básicos e intermediários do Angular 13!
+
 Ao término do curso, você será capaz de criar aplicações utilizando os principais recursos do Angular 13, e dar os primeiros passos na carreira de desenvolvedor web com esse poderoso framework web.
+
 Através do curso, você será capaz de se destacar no mercado de trabalho, como um desenvolvedor web que possui conhecimentos em Angular 13, que por ser um framework recente, ainda demanda de muitos profissionais qualificados.
 
 Veja a seguir como esse curso o tornará um profissional diferenciado no mercado de trabalho:
@@ -13,5 +16,7 @@ Veja a seguir como esse curso o tornará um profissional diferenciado no mercado
     4- Através de pequenos projetos, você ficará motivado a concluir o curso rapidamente, o que o ajudará a estar qualificado em um curto espaço de tempo.
 
 O curso é 100% prático, e todas as lições são executadas passo a passo para que não fique nenhuma dúvida.
+
 O curso foi dividido em 7 projetos, com o objetivo de tornar o aprendizado otimizado, divertido, e prático, portanto ele não possui lições teóricas e cansativas.
+
 É um curso para ser realizado do início ao fim, deixando ainda um gostinho de quero mais ao seu término!
