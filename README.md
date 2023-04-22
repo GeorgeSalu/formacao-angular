@@ -23,7 +23,7 @@ O curso foi dividido em 7 projetos, com o objetivo de tornar o aprendizado otimi
 
 O que você aprenderá
 
-  * Criar aplicações básicas/intermediárias com o Angular
+  *  Criar aplicações básicas/intermediárias com o Angular
   *  Criar 7 projetos práticos, incluindo uma calculadora, um conversor de moedas, CRUD, Dashboard, jogo da velha,...
   *  Criar e executar projetos do zero com Angular
   *  Criar projetos utilizando o Angular CLI
