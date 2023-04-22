@@ -20,3 +20,26 @@ O curso é 100% prático, e todas as lições são executadas passo a passo para
 O curso foi dividido em 7 projetos, com o objetivo de tornar o aprendizado otimizado, divertido, e prático, portanto ele não possui lições teóricas e cansativas.
 
 É um curso para ser realizado do início ao fim, deixando ainda um gostinho de quero mais ao seu término!
+
+O que você aprenderá
+
+    Criar aplicações básicas/intermediárias com o Angular
+    Criar 7 projetos práticos, incluindo uma calculadora, um conversor de moedas, CRUD, Dashboard, jogo da velha,...
+    Criar e executar projetos do zero com Angular
+    Criar projetos utilizando o Angular CLI
+    Entender a arquitetura do Angular
+    Entender o que são Typescript e Webpack
+    Criar componentes (components) no Angular
+    Criar serviços (services) no Angular
+    Criar filtros (pipes) no Angular
+    Criar diretivas (directives) no Angular
+    Aprender a criar formulários de dados
+    Aprender a validar dados de formulários
+    Aprender a manipular dados do template
+    Aprender a acessar APIs HTTP externas
+    Aprender a criar rotas e navegação
+    Aprender o que é um Observer
+    Aprender o básico sobre testes unitários com o Angular
+    Aprender a utilizar o Bootstrap com o Angular
+    Criar gráficos utilizando a API de gráficos do Google
+    Aprender a utilizar fontes externas nos projetos Angular
