@@ -1,4 +1,4 @@
-### formação angular
+## formação angular
 
 Esse curso tem como objetivo principal ensinar a criação de aplicações web com o poderoso framework Angular 13.
 
