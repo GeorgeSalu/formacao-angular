@@ -46,13 +46,13 @@ O que você aprenderá.
 
 Há algum requisito ou pré-requisito para o curso?
 
-    Você deve ter noções de programação web (HTML, CSS)
-    Você deve ter noções de lógica de programação
-    Você deve conhecer Javascript básico
-    Você de ter noções de orientação a objetos
+  *  Você deve ter noções de programação web (HTML, CSS)
+  *  Você deve ter noções de lógica de programação
+  *  Você deve conhecer Javascript básico
+  *  Você de ter noções de orientação a objetos
 
 Para quem é este curso:
 
-    Esse curso é para desenvolvedores Web/Javascript que pretendem criar aplicações web com o Angular
-    Desenvolvedores que pretendem entender o Angular desde o básico
-    Desenvolvedores que pretendem aprender ou melhorar seus conhecimentos em Angular de modo divertido, através da criação de projetos práticos
+  *  Esse curso é para desenvolvedores Web/Javascript que pretendem criar aplicações web com o Angular
+  *  Desenvolvedores que pretendem entender o Angular desde o básico
+  *  Desenvolvedores que pretendem aprender ou melhorar seus conhecimentos em Angular de modo divertido, através da criação de projetos práticos
