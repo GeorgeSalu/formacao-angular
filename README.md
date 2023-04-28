@@ -1,6 +1,6 @@
 ## formação angular
 
-Esse curso tem como objetivo principal ensinar a criação de aplicações web com o poderoso framework Angular 13.
+Esse curso tem como objetivo principal ensinar a criação de aplicações web com o poderoso framework Angular 1313.0.0.
 
 Para tornar o aprendizado prático e divertido, você criará 7 projetos ao longo do curso, onde serão ensinados passo a passo na prática, os recursos básicos e intermediários do Angular 13!
 
